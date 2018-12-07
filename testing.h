@@ -1,3 +1,4 @@
+//this code was written with the help of John Armstrong's beatiful book "C++ for Financial Mathematics".
 #pragma once
 
 #include <stdexcept>
